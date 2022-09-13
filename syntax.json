@@ -640,5 +640,18 @@
         "pattern": "#"
       }
     ]
+  },
+  {
+    "language": "Prisma",
+    "markers": [
+      {
+        "type": "line",
+        "pattern": "//"
+      },
+      {
+        "type": "line",
+        "pattern": "///"
+      }
+    ]
   }
 ]
